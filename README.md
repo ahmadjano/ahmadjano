@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student at the School of Business and Engineering Vaud (HEIG-VD).
+
 <!--
 **ahmadjano/ahmadjano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
